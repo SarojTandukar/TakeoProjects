@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e0c8080-f926-4129-ac3a-a474ede9a7fa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assignmentDay1/AreaOfRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignmentDay1/CurrencyConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignmentDay1/StudentGrading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignmentDay1/TemperatureConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignmentDay1/TotalBillCalculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assignmentDay2/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4e0c8080-f926-4129-ac3a-a474ede9a7fa" name="Changes" comment="Day 2 Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +41,20 @@
       <option name="presentableId" value="Default" />
       <updated>1690051860695</updated>
     </task>
+    <task id="LOCAL-00001" summary="Day 2 Commit">
+      <option name="closed" value="true" />
+      <created>1690134455469</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690134455469</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day 2 Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 2 Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
