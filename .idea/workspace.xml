@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e0c8080-f926-4129-ac3a-a474ede9a7fa" name="Changes" comment="Day 2 Commit">
-      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,18 +31,94 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/sarojtandukar/Desktop/assignments/TakeoProjects",
-    "onboarding.tips.debug.path": "/Users/sarojtandukar/Downloads/HelloTakeo/TakeoProjects/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sarojtandukar/Desktop/assignments/TakeoProjects&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/sarojtandukar/Downloads/HelloTakeo/TakeoProjects/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.DuplicateNumbers">
+    <configuration name="ConvertingStringToArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week3Day1.week3Day2.ConvertingStringToArray" />
+      <module name="TakeoProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week3Day1.week3Day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DuplicateNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week3Day3.DuplicateNumbers" />
+      <module name="TakeoProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week3Day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindCorrectValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week3Day1.week3Day2.FindCorrectValue" />
+      <module name="TakeoProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week3Day1.week3Day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuessTheNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week3Day3.week3Day2.week3Day1.GuessTheNumber" />
+      <module name="TakeoProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week3Day3.week3Day2.week3Day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberDetermination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week3Day1.week3Day2.NumberDetermination" />
+      <module name="TakeoProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week3Day1.week3Day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DuplicateNumbers" />
+        <item itemvalue="Application.ConvertingStringToArray" />
+        <item itemvalue="Application.NumberDetermination" />
+        <item itemvalue="Application.FindCorrectValue" />
+        <item itemvalue="Application.GuessTheNumber" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
