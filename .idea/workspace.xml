@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e0c8080-f926-4129-ac3a-a474ede9a7fa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week3Day3/DuplicateNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week3Day4/DuplicateNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week3Day3/Monkeys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week3Day4/Monkeys.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/week3Day4/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week3Day4/Exercise1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,14 +58,17 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/week4Day1" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.MergingArrayList">
-    <configuration name="Exercise4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week3Day5.Exercise4" />
+  <component name="RunManager" selected="Application.ReturningIndicesofTwoNo">
+    <configuration name="FindInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week4Day3.FindInteger" />
       <module name="TakeoProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week3Day5.*" />
+          <option name="PATTERN" value="week4Day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week3Day5.Exercise5" />
+    <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week4Day3.MissingNumber" />
       <module name="TakeoProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week3Day5.*" />
+          <option name="PATTERN" value="week4Day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week3Day5.Exercise6" />
+    <configuration name="RemoveEvenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week4Day3.RemoveEvenNumbers" />
       <module name="TakeoProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week3Day5.*" />
+          <option name="PATTERN" value="week4Day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week3Day5.Exercise8" />
+    <configuration name="ReturningIndicesofTwoNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week4Day3.ReturningIndicesofTwoNo" />
       <module name="TakeoProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week3Day5.*" />
+          <option name="PATTERN" value="week4Day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergingArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week4Day1.MergingArrayList" />
+    <configuration name="ReversingIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week4Day3.ReversingIntegers" />
       <module name="TakeoProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week4Day1.*" />
+          <option name="PATTERN" value="week4Day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MergingArrayList" />
-        <item itemvalue="Application.Exercise8" />
-        <item itemvalue="Application.Exercise6" />
-        <item itemvalue="Application.Exercise5" />
-        <item itemvalue="Application.Exercise4" />
+        <item itemvalue="Application.ReturningIndicesofTwoNo" />
+        <item itemvalue="Application.ReversingIntegers" />
+        <item itemvalue="Application.RemoveEvenNumbers" />
+        <item itemvalue="Application.MissingNumber" />
+        <item itemvalue="Application.FindInteger" />
       </list>
     </recent_temporary>
   </component>
@@ -156,6 +157,23 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day 2 Commit" />

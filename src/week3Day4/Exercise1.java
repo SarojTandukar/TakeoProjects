@@ -25,19 +25,20 @@ STDIN       Function
 6 6 2015    day = 6, month = 6, year = 2015 (date due)*/
 public class Exercise1 {
     public static void main(String[] args) {
-
-        int [] dueArray = {12,02,2014};
         Scanner sc = new Scanner(System.in);
-        //System.out.println("Due date :");
+        int [] dueArray = {12,02,2014};
+
+        System.out.println("Due date :" + dueArray);
         //int dueDate =sc.nextInt();
 
         System.out.println("Returned date :"); // in space
         int returnDate = sc .nextInt();
-        int [] returned = new int[returnDate];
+       // int [] returned = new int[returnDate];
 
 
-         for(int i =0 ; i<=dueArray.length ; i++){
-        if(returnDate<i ){
+         for(int i =0 ; i<= dueArray.length ; i++){
+
+        if(dueArray[i]>returnDate){
             System.out.println("Fine = $0");
         }
         else {
