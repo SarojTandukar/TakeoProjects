@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e0c8080-f926-4129-ac3a-a474ede9a7fa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/week5/day2/FindingKeyWithHighestValue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week3Day4/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week3Day4/Exercise1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,13 +62,13 @@
       <recent name="$PROJECT_DIR$/src/week4Day1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReturningIndicesofTwoNo">
-    <configuration name="FindInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week4Day3.FindInteger" />
+  <component name="RunManager" selected="Application.FindingKeyWithHighestValue">
+    <configuration name="FindingKeyWithHighestValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week5.day2.FindingKeyWithHighestValue" />
       <module name="TakeoProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week4Day3.*" />
+          <option name="PATTERN" value="week5.day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindingKeyWithHighestValue" />
         <item itemvalue="Application.ReturningIndicesofTwoNo" />
         <item itemvalue="Application.ReversingIntegers" />
         <item itemvalue="Application.RemoveEvenNumbers" />
         <item itemvalue="Application.MissingNumber" />
-        <item itemvalue="Application.FindInteger" />
       </list>
     </recent_temporary>
   </component>
